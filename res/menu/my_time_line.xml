@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/misettings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_compose"
+        android:onClick="onComposeclicked"
+        android:title="Compose"/>
+
+</menu>

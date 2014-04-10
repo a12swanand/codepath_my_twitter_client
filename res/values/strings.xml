@@ -13,5 +13,7 @@
     <string name="compose_char_default">140</string>
     <string name="button_tweet">Tweet</string>
     <string name="button_cancel">Cancel</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_my_profile_info">MyProfileInfoActivity</string>
 
 </resources>
